@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/inaba",
  "yomi": "いなばしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "江戸後期",
+  "author": "本居大平（1756〜1833）",
+  "desc": "本居宣長の養子で、その学を継いだ本居大平の家集。「はしがき」は、鈴屋の教えを守って歌にも励んだことを述べる。安永から文政にわたる年記を含む。"
+ },
  "editions": [
   {
    "pid": "993381",
